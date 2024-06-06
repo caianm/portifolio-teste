@@ -1,0 +1,64 @@
+@media screen and (max-width: 768px) {
+    /* Adjust margin classes for mobile */
+    .m1, .mx1, .my1, .ml1, .mr1, .mt1, .mb1 {
+        margin: 0.5rem !important;
+    }
+
+    .m2, .mx2, .my2, .ml2, .mr2, .mt2, .mb2 {
+        margin: 1rem !important;
+    }
+
+    .m3, .mx3, .my3, .ml3, .mr3, .mt3, .mb3 {
+        margin: 1.5rem !important;
+    }
+
+    .m4, .mx4, .my4, .ml4, .mr4, .mt4, .mb4 {
+        margin: 2rem !important;
+    }
+
+    .m5, .mx5, .my5, .ml5, .mr5, .mt5, .mb5 {
+        margin: 2.5rem !important;
+    }
+
+    /* Adjust padding classes for mobile */
+    .p1, .px1, .py1, .pl1, .pr1, .pt1, .pb1 {
+        padding: 0.5rem !important;
+    }
+
+    .p2, .px2, .py2, .pl2, .pr2, .pt2, .pb2 {
+        padding: 1rem !important;
+    }
+
+    .p3, .px3, .py3, .pl3, .pr3, .pt3, .pb3 {
+        padding: 1.5rem !important;
+    }
+
+    .p4, .px4, .py4, .pl4, .pr4, .pt4, .pb4 {
+        padding: 2rem !important;
+    }
+
+    .p5, .px5, .py5, .pl5, .pr5, .pt5, .pb5 {
+        padding: 2.5rem !important;
+    }
+
+    /* Adjust line-height classes for mobile */
+    .lh1 {
+        line-height: 0.5rem !important;
+    }
+
+    .lh2 {
+        line-height: 1rem !important;
+    }
+
+    .lh3 {
+        line-height: 1.5rem !important;
+    }
+
+    .lh4 {
+        line-height: 2rem !important;
+    }
+
+    .lh5 {
+        line-height: 2.5rem !important;
+    }
+}
